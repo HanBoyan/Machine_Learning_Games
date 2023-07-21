@@ -1,5 +1,6 @@
 # Machine_Learning_Games
 Small ML projects for learning ML algorithms better, XD.
+```
 Contents for algorithms(updating still):
  |
  |__ KNN Project(Using for pictures of hand-writing numbers' classification)
@@ -8,3 +9,4 @@ Contents for algorithms(updating still):
  |     |__ data.txt
  |     |__ decision_tree_model.py
  |...... 
+```
