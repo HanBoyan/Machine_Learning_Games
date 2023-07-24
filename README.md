@@ -12,5 +12,6 @@ Contents for algorithms(updating still):
  |     |__ datasetSentences.txt
  |     |__ datasetSplit.txt
  |     |__ Naive_Bayes.py
+ |     |__ result.txt
  |...... 
 ```
