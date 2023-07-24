@@ -8,5 +8,9 @@ Contents for algorithms(updating still):
  |__ Decision Tree Project(ID3 √/C4.5 /CART )
  |     |__ data.txt
  |     |__ decision_tree_model.py
+ |__ Sentiment Classification By Naive Bayes
+ |     |__ datasetSentences.txt
+ |     |__ datasetSplit.txt
+ |     |__ Naive_Bayes.py
  |...... 
 ```
