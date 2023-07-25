@@ -13,5 +13,9 @@ Contents for algorithms(updating still):
  |     |__ datasetSplit.txt
  |     |__ Naive_Bayes.py
  |     |__ result.txt
+ |__ Logistic Regression(For Classification Mask)
+ |     |__ horseColicTraining.txt
+ |     |__ horseColicTest.txt
+ |     |__ Logistic_Regression.py
  |...... 
 ```
