@@ -17,5 +17,8 @@ Contents for algorithms(updating still):
  |     |__ horseColicTraining.txt
  |     |__ horseColicTest.txt
  |     |__ Logistic_Regression.py
+ |__ SVM Project(Simplified SMO)    
+ |     |__ testSet.txt
+ |     |__ SVM_SMO.py
  |...... 
 ```
