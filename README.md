@@ -1,7 +1,7 @@
 # Machine_Learning_Games
 Small ML projects for learning ML algorithms better, XD.
 ```
-Contents for algorithms(updating still):
+Contents for algorithms(updated by time):
  |
  |__ KNN Project(Using for pictures of hand-writing numbers' classification)
  |     |__ KNN.py
